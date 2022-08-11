@@ -1,0 +1,1 @@
+# Generating Character for Encryption
